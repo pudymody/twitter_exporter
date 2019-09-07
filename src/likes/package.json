@@ -1,0 +1,14 @@
+{
+  "name": "@pudymody/get_twitter_likes",
+  "version": "1.0.0",
+  "description": "Little scripts to get likes from a user in twitter",
+  "main": "00-get_likes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Federico Scodelaro <federicoscodelaro@gmail.com> (http://pudymody.github.io/)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "got": "^9.6.0"
+  }
+}
