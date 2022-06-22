@@ -9,6 +9,6 @@
   "author": "Federico Scodelaro <federicoscodelaro@gmail.com> (http://pudymody.github.io/)",
   "license": "GPL-3.0",
   "dependencies": {
-    "got": "^9.6.0"
+    "got": "^11.8.5"
   }
 }
